@@ -6,9 +6,9 @@ After analyzing the database I linked the database to tableau and performed some
 # Some insights which were drawn from sales data
 
 1) Sheet vs dashboard
-2) Create label summarization of revenue, sales quantity
-3) Create bar charts for various measures
-4) Create year and month filter buttons for our dashboard
+2) Created label summarization of revenue, sales quantity
+3) Created bar charts for various measures
+4) Created year and month filter buttons for our dashboard
 5) Revenue trend char
 
 This is a interactive dashboard where you can see the sales of the product yearly,how much revenue has been generated, who were the top 5 customers of the company.
